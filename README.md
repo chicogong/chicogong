@@ -19,7 +19,7 @@ I'm a passionate developer specializing in Conversational AI and Real-time Commu
 - Cloud-native AI deployment
 
 ### 💞️ Looking to Collaborate On
-- Open-source conversational AI projects
+- Various conversational AI projects
 - Voice-enabled applications
 - Real-time communication solutions
 - AI-powered customer service systems
