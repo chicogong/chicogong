@@ -26,12 +26,12 @@ I'm a passionate developer specializing in Conversational AI and Real-time Commu
 
 ### 🛠️ Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/Realtime_AI_Agent-2AA889?style=for-the-badge&logo=tencent&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realtime_AI_Agent-2AA889?style=for-the-badge&logo=tencent&logoColor=white" />
 </p>
 
 ### 📫 How to Reach Me
