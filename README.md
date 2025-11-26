@@ -36,8 +36,8 @@ I'm a passionate developer specializing in Conversational AI and Real-time Commu
 
 ### 📫 How to Reach Me
 - 📧 Email: [chicogong@tencent.com](mailto:chicogong@tencent.com)
+- 🐦 Twitter: https://x.com/ghr180100
 - 💼 LinkedIn: 
-- 🐦 Twitter:
 
 ### ⚡ Fun Fact
 I believe the future of human-computer interaction lies in natural, conversational interfaces that understand not just what we say, but how we say it and why we say it.
