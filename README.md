@@ -36,7 +36,7 @@ I'm a passionate developer specializing in Conversational AI and Real-time Commu
 
 ### 📫 How to Reach Me
 - 📧 Email: [chicogong@tencent.com](mailto:chicogong@tencent.com)
-- 🐦 Twitter: https://x.com/ghr180100
+- 🐦 Twitter: https://x.com/chicogongx
 - 💼 LinkedIn: 
 
 ### ⚡ Fun Fact
