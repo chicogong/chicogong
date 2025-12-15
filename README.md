@@ -1,32 +1,48 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Chico+Gong;Conversational+AI+Enthusiast;Real-time+Communication+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=520&lines=Hi+there+👋+I'm+Chico+Gong;Conversational+AI+%2B+Voice+Builder;Real-time+TTS+%26+WebRTC+Integration;Building+Natural+Voice+Experiences" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in Conversational AI and Real-time Communication technologies. My work focuses on creating intelligent, interactive systems that can understand and respond to human communication naturally.
+I build conversational AI and real-time voice experiences that let people talk to software as naturally as they talk to each other. I focus on connecting LLMs, TTS, and real-time communication to create both technical demos and production-ready products.
+
+### 🗣️ Voice & TTS Engineering
+- Building streaming ASR → LLM → TTS pipelines with interruptible playback for low-latency, natural dialogues
+- Working with human-like voice synthesis, fine-tuning prosody and emotional cues to make speech sound authentic and expressive
+- Delivering voice experiences via WebRTC with VAD, barge-in support, and chunked synthesis for responsive interactions
+- Engineering production-grade TTS systems: Distributed task scheduling, voice dubbing platforms, and TTS ecosystem products
+- Providing TTS-as-a-Service solutions and exploring adjacent voice technology applications
+
+### 📐 Product Design & Iteration
+- Designing conversation-first products with memory, tool calling, fallback handling, and action visualization
+- Fast iteration cycles: Write scenarios → Build prototypes → Interview users → Validate with data
+- Tracking what matters: Conversation success rate, speech naturalness, tool reliability
 
 ### 🔍 Interests
 - 🤖 Conversational AI & Natural Language Processing
-- 🎙️ Voice Interaction & Speech Technologies
-- 📡 Real-time Communication & WebRTC
-- 🧠 Large Language Models & AI Agents
+- 🎙️ Voice interaction, TTS, and speech technologies
+- 📡 Real-time communication & WebRTC
+- 🧠 Large Language Models, AI agents, and tool use
 
 ### 🌱 Currently Learning
-- Advanced Conversational AI architectures
-- Real-time voice processing and synthesis
-- Multi-modal AI interactions
-- Cloud-native AI deployment
+- Low-latency voice processing and synthesis techniques
+- Multi-modal interactions that mix speech, UI, and actions
+- Evaluation frameworks for dialogue/voice quality
+- Cloud-native deployment of real-time AI pipelines
 
 ### 💞️ Looking to Collaborate On
-- Various conversational AI projects
-- Voice-enabled applications
-- Real-time communication solutions
-- AI-powered customer service systems
+- Voice-first conversational products and demos
+- TTS/ASR pipelines integrated with LLM agents
+- Real-time communication solutions and WebRTC tooling
+- AI-powered customer service and co-pilot scenarios
+- TTS engineering projects: Voice dubbing platforms, distributed synthesis systems, and TTS ecosystem solutions
+
+**Interested in TTS services or voice AI collaboration?** Feel free to reach out!
 
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Realtime_AI_Agent-2AA889?style=for-the-badge&logo=tencent&logoColor=white" />
+  <img src="https://img.shields.io/badge/TTS_%26_Speech-2AA889?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
