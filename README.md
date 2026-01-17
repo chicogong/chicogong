@@ -30,7 +30,7 @@
     </td>
     <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=chicogong&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicogong&theme=radical" alt="GitHub Stats" />
       </div>
     </td>
   </tr>
