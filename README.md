@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=520&lines=Hi+there+👋+I'm+Chico+Gong;Realtime+AI+Engineer+%40+Tencent;Conversational+AI+%2B+Voice+Experiences;Connecting+LLMs%2C+TTS%2C+and+WebRTC" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello!%20I'm%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Realtime%20AI%20Engineer%20@%20Tencent&descAlignY=52&descSize=18" width="100%" />
 
   <br/>
 
@@ -89,7 +89,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicogong&theme=radical" alt="GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicogong&theme=radical" alt="GitHub Stats" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicogong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="30%" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/chicogong/chicogong/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>

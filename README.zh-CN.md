@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=520&lines=你好+👋+我是+Chico+Gong;腾讯实时+AI+工程师;对话式+AI+%2B+语音产品构建者;连接+LLM%E3%80%81TTS+与+WebRTC" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=你好!%20我是%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=腾讯实时%20AI%20工程师&descAlignY=52&descSize=18" width="100%" />
 
   <br/>
 
@@ -89,12 +89,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicogong&theme=radical" alt="GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chicogong&theme=radical" alt="GitHub Stats" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicogong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="30%" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/chicogong/chicogong/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<div align="center">
-  <h3>⚡ 贡献动态</h3>
-  <img src="https://raw.githubusercontent.com/chicogong/chicogong/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
