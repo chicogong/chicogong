@@ -33,41 +33,31 @@
   <table>
     <tr>
       <td align="center"><b>Core</b></td>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>DevOps</b></td>
+      <td align="center"><b>Dev</b></td>
       <td align="center"><b>AI</b></td>
+      <td align="center"><b>Ops</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Realtime_AI-2AA889?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Audio_Streaming-FF6B6B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Voice_AI-2AA889?style=flat-square&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/RTC_Systems-333333?style=flat-square&logo=webrtc&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Low--latency_Streaming-FF6B6B?style=flat-square&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go/Python-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/React/Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/MySQL/ES-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM/Agentic-412991?style=flat-square&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Speech_Synthesis-2AA889?style=flat-square&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Data_Pipeline-FF6F00?style=flat-square&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Fine--tuning-6B7280?style=flat-square&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TTS-2AA889?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/ASR-FF6F00?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/VAD-6B7280?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
       </td>
     </tr>
   </table>
