@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=你好!%20我是%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=腾讯实时%20AI%20工程师&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=你好!%20我是%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=全栈%20AI%20工程师%20&%20语音%20AI%20工程师&descAlignY=52&descSize=16" width="100%" />
 
   <br/>
 
-  <h3>腾讯实时 AI 工程师</h3>
+  <h3>全栈 AI 工程师 & 语音 AI 工程师</h3>
 
   <p>
-    构建<b>对话式 AI</b> 和 <b>实时语音体验</b>。<br/>
-    我的目标是让人们能像与人交流一样自然地与软件对话，将 LLM、TTS 和 WebRTC 完美融合。
+    我的目标是让人们能像与人交流一样自然地与软件对话，<br/>
+    将 <b>LLM</b>、<b>TTS</b> 和 <b>WebRTC</b> 完美融合。
   </p>
 
   <p>
