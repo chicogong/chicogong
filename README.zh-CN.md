@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=你好!%20我是%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=全栈%20AI%20工程师%20&%20语音%20AI%20工程师&descAlignY=52&descSize=16" width="100%" />
-
+  <p align="center">
+    <img src="./assets/header.png" alt="Hello! I'm Chico" width="800" />
+  </p>
   <br/>
 
   <h3>全栈 AI 工程师 & 语音 AI 工程师</h3>
