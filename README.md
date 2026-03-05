@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello!%20I'm%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Realtime%20AI%20Engineer%20@%20Tencent&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello!%20I'm%20Chico&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20AI%20Engineer%20&%20Voice%20AI%20Engineer&descAlignY=52&descSize=16" width="100%" />
 
   <br/>
 
-  <h3>Realtime AI Engineer @ Tencent</h3>
+  <h3>Full Stack AI Engineer & Voice AI Engineer</h3>
   
   <p>
-    I build <b>conversational AI</b> and <b>real-time voice experiences</b>.<br/>
-    My goal is to let people advise software as naturally as they talk to each other, connecting LLMs, TTS, and WebRTC.
+    My goal is to let people interact with software as naturally as they talk to each other, <br/>
+    by seamlessly connecting <b>LLMs</b>, <b>TTS</b>, and <b>WebRTC</b>.
   </p>
 
   <p>
