@@ -28,9 +28,9 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Voice_AI-2AA889?style=flat-square&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Voice_AI-2AA889?style=flat-square&logo=googleassistant&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/RTC_Systems-333333?style=flat-square&logo=webrtc&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Low--latency_Streaming-FF6B6B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Low--latency_Streaming-FF6B6B?style=flat-square&logo=obsstudio&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
@@ -39,10 +39,10 @@
         <img src="https://img.shields.io/badge/MySQL/ES-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/LLM/Agentic-412991?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Speech_Synthesis-2AA889?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Data_Pipeline-FF6F00?style=flat-square&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Fine--tuning-6B7280?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM/Agentic-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Speech_Synthesis-2AA889?style=flat-square&logo=soundcloud&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Data_Pipeline-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Fine--tuning-6B7280?style=flat-square&logo=pytorch&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/>
