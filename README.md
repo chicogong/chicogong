@@ -39,7 +39,7 @@
         <img src="https://img.shields.io/badge/MySQL/ES-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/LLM/Agentic-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/LLM/Agentic-412991?style=flat-square&logo=googlegemini&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Speech_Synthesis-2AA889?style=flat-square&logo=soundcloud&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Data_Pipeline-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Fine--tuning-6B7280?style=flat-square&logo=pytorch&logoColor=white" />
@@ -63,7 +63,7 @@
     <br/><br/>
     <!-- AI Tools & Platforms -->
     <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-    <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=googlegemini&logoColor=white" alt="ChatGPT" />
     <img src="https://img.shields.io/badge/Cursor-1C1C1C?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
     <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
