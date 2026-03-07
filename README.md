@@ -30,7 +30,8 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Voice_AI-2AA889?style=flat-square&logo=googleassistant&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/RTC_Systems-333333?style=flat-square&logo=webrtc&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Low--latency_Streaming-FF6B6B?style=flat-square&logo=obsstudio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Low--latency_Streaming-FF6B6B?style=flat-square&logo=obsstudio&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Distributed_Systems-663399?style=flat-square&logo=apache&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
@@ -46,7 +47,9 @@
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Docker/K8s-2496ED?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/IaC/Security-FF9900?style=flat-square&logo=terraform&logoColor=white" />
       </td>
     </tr>
   </table>
