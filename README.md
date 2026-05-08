@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <a href="mailto:chicogong@tencent.com"><img src="https://img.shields.io/badge/Email-chicogong%40tencent.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://x.com/chicogongx"><img src="https://img.shields.io/badge/Twitter-@chicogongx-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a> <a href="https://github.com/chicogong"><img src="https://img.shields.io/badge/GitHub-chicogong-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/chicogong"><img src="https://img.shields.io/badge/LinkedIn-chicogong-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:chicogong@tencent.com"><img src="https://img.shields.io/badge/Email-chicogong%40tencent.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://x.com/chicogong"><img src="https://img.shields.io/badge/Twitter-@chicogong-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a> <a href="https://github.com/chicogong"><img src="https://img.shields.io/badge/GitHub-chicogong-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/chicogong"><img src="https://img.shields.io/badge/LinkedIn-chicogong-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
   <br/>
