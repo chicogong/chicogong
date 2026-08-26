@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/header.png" alt="Hello! I'm Chico" width="500" />
-  <h3 style="margin-top: 0;">Full Stack AI Engineer & Voice AI Engineer</h3>
+  <h3 style="margin-top: 0;">Full-Stack AI Engineer</h3>
   
   <p>
     My goal is to let people interact with software as naturally as they talk to each other, <br/>

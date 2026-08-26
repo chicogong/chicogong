@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/header.png" alt="Hello! I'm Chico" width="500" />
-  <h3 style="margin-top: 0;">全栈 AI 工程师 & 语音 AI 工程师</h3>
+  <h3 style="margin-top: 0;">Full-Stack AI Engineer (全栈 AI 工程师)</h3>
 
   <p>
     我的目标是让人们能像与人交流一样自然地与软件对话，<br/>
