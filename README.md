@@ -76,6 +76,15 @@
 
 <br/>
 
+## 📖 Featured Open-Source Book
+
+### [《图解 Agent 系统》 (Illustrated Agent Systems)](https://books.aimake.cc/)
+> 一本免费开源的中文图解教程：拆开循环、上下文、工具边界与故障恢复，看清 Agent 怎样把事做成。对标《算法图解》，系统拆解 16+ 工业级开源框架（Pi、Codex、Letta、Hermes、Mem0、OpenHands 等），包含 40 组原创手绘 Excalidraw 矢量架构图与 6 组零外部依赖本地/浏览器交互实验台。
+>
+> 🌐 **在线阅读**：[https://books.aimake.cc/](https://books.aimake.cc/) ｜ 💻 **GitHub 仓库**：[chicogong/agent-systems](https://github.com/chicogong/agent-systems)
+
+<br/>
+
 ## ✨ What I Do
 
 - **🗣️ Voice & TTS**: Streaming ASR → LLM → TTS pipelines, prosody fine-tuning, and interruptible playback.
